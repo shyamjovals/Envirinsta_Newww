@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-v21/ms__selector.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.jaredrummler/material-spinner/1.1.0/res/drawable-v21/ms__selector.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-v21/white_ripple.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.armcha/SpaceNavigationView/1.4.1/res/drawable-v21/white_ripple.xml"
+    }
+]

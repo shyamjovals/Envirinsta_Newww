@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#00FFFFFF"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="auto"
+    app:layout_behavior="@string/bottom_sheet_behavior"
+    android:id="@+id/b1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:background="@drawable/layout_bg_2"
+        android:padding="5dp"
+        android:elevation="8dp">
+
+        <EditText
+
+            android:layout_width="match_parent"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:id="@+id/editText"
+            android:textColor="@color/text"
+            android:textColorHint="#40000000"
+
+            android:gravity="start"
+            android:hint="Your text goes here..."
+            android:padding="7dp"
+            android:layout_below="@+id/textView"
+            android:elevation="4dp"
+            android:textSize="14sp"
+            android:layout_height="120dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginBottom="@dimen/margin_normal"
+            android:layout_marginTop="@dimen/margin_normal"
+            android:background="@color/divider"/>
+
+            <com.jaredrummler.materialspinner.MaterialSpinner
+                android:id="@+id/spinner_text"
+                app:ms_dropdown_max_height="400dp"
+                app:ms_dropdown_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="10dp"
+                android:textColor="@color/text" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginBottom="@dimen/margin_normal"
+            android:layout_marginTop="@dimen/margin_normal"
+            android:background="@color/divider"/>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText"
+            android:layout_alignLeft="@+id/button_share"
+            android:layout_alignStart="@+id/button_share"
+            android:layout_alignRight="@+id/button_share"
+            android:layout_alignEnd="@+id/button_share"
+            android:elevation="5dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:ems="10"
+                android:id="@+id/desc"
+                android:layout_weight="1"
+                android:textColor="@color/text"
+                android:hint="Description"
+                android:textColorHint="#40000000"
+                android:textColorHighlight="@color/colorPrimary"
+                android:textColorLink="#40000000"
+                android:textSize="14sp" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginBottom="@dimen/margin_normal"
+            android:layout_marginTop="@dimen/margin_normal"
+            android:background="@color/divider"/>
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/upload"
+            android:padding="7dp"
+            android:text="Share"
+            android:textAlignment="center"
+            android:elevation="5dp"
+            android:textColor="#fff"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/desc"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="100dp"
+            android:layout_marginRight="100dp"
+            android:layout_marginStart="100dp"
+            android:layout_marginEnd="100dp"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

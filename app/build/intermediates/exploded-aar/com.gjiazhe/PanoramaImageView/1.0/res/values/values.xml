@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PanoramaImageView"><attr format="boolean" name="piv_enablePanoramaMode"/><attr format="boolean" name="piv_invertScrollDirection"/><attr format="boolean" name="piv_show_scrollbar"/></declare-styleable>
+    <string name="app_name">PanoramaImageView</string>
+</resources>

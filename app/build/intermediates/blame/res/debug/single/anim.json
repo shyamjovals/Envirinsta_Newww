@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/arrow_to_drawer_path.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/arrow_to_drawer_path.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/play_to_stop_rotation.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/play_to_stop_rotation.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/arrow_to_drawer_rotation.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/arrow_to_drawer_rotation.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/pause_to_play_rotation.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/pause_to_play_rotation.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/play_to_pause_path.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/play_to_pause_path.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/pause_to_play_path.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/pause_to_play_path.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/play_to_stop_path.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/play_to_stop_path.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/play_to_pause_rotation.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/play_to_pause_rotation.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/stop_to_play_path.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/stop_to_play_path.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/drawer_to_arrow_path.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/drawer_to_arrow_path.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/stop_to_play_rotation.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/stop_to_play_rotation.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/drawer_to_arrow_rotation.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/anim/drawer_to_arrow_rotation.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/anim/abc_slide_in_top.xml"
+    }
+]

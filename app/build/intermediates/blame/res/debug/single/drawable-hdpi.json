@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_video.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/ic_video.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_audio.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/ic_audio.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/contatcs.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/contatcs.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_filter.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/ic_action_filter.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/icn_3.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/icn_3.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_image.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/ic_action_image.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_files.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/ic_action_files.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_audio.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/ic_action_audio.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/icn_1.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/icn_1.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/icn_5.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/icn_5.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_doc.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/ic_doc.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/icn_4.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/icn_4.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/icn_close.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/icn_close.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_group_sv.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/ic_action_group_sv.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/icn_2.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/icn_2.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_indi_sv.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/ic_action_indi_sv.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/plus.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/plus.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_video.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/ic_action_video.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_text.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-hdpi/ic_action_text.png"
+    }
+]

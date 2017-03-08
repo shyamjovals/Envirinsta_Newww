@@ -1,0 +1,7 @@
+#Wed Mar 08 16:35:33 IST 2017
+base.0=/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_883bc38e79ba57d2b1b1ec65999192fed03e6297
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_710d034776b12cecf8c01867045f590f3884ebac/classes.dex
+base.1=/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_710d034776b12cecf8c01867045f590f3884ebac
+file.0=/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_883bc38e79ba57d2b1b1ec65999192fed03e6297/classes.dex

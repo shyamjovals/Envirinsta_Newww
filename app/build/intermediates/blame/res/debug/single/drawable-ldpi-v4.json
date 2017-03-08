@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ms__menu_down.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.jaredrummler/material-spinner/1.1.0/res/drawable-ldpi-v4/ms__menu_down.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/res/drawable-ldpi-v4/ic_launcher.png"
+    }
+]

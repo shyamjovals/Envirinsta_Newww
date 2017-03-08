@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FastScrollRecyclerView"><attr format="boolean" name="hideScrollbar"/><attr format="boolean" name="showTrack"/><attr format="color" name="trackColor"/><attr format="color" name="handleColor"/><attr format="color" name="bubbleColor"/><attr format="color" name="bubbleTextColor"/></declare-styleable>
+    <dimen name="fastscroll_bubble_radius">44dp</dimen>
+    <dimen name="fastscroll_bubble_size">88dp</dimen>
+    <dimen name="fastscroll_bubble_textsize">48sp</dimen>
+    <dimen name="fastscroll_handle_height">40dp</dimen>
+    <dimen name="fastscroll_handle_radius">2dp</dimen>
+    <dimen name="fastscroll_handle_width">4dp</dimen>
+    <dimen name="fastscroll_scrollbar_padding">8dp</dimen>
+    <dimen name="fastscroll_track_width">1dp</dimen>
+</resources>

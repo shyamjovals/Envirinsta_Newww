@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/animator/stripe1_close.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/res/animator/stripe1_close.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/animator/stripe1_open.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/res/animator/stripe1_open.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/animator/stripe2_open.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/res/animator/stripe2_open.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/animator/stripe3_close.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/res/animator/stripe3_close.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/animator/stripe2_close.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/res/animator/stripe2_close.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/animator/rotation.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/res/animator/rotation.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/animator/stripe3_open.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/res/animator/stripe3_open.xml"
+    }
+]

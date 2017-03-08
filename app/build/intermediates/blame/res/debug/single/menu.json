@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/menu/context_menu2.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/menu/context_menu2.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/menu/context_menu.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/menu/context_menu.xml"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/menu/drawermenu_new.xml",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/menu/drawermenu_new.xml"
+    }
+]

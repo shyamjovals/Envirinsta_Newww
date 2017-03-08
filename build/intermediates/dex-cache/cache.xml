@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.nihaskalam.android/progress-button/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="016f0c4dc50a7cffa3ea453a95a123fe41db906a">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.nihaskalam.android-progress-button-1.0.1_ebf21c86402bfb97c99d0767e643823e2f1a49a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.akexorcist/googledirectionlibrary/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d720627a0fdd516f238c3acdfac6043e7717b742">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.akexorcist-googledirectionlibrary-1.0.5_cd6f20e5436f537834f3a3efd84970a9a4fdfc5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_07625b00e58d20061d85f22535eda9cf61b555f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_da7775219cb4eb24d89e892b063cd14d84bd406c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_5e1b9c08bc67bffa29f69012987e8c62bd52fc67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.jaredrummler/material-spinner/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60182b96dcbd95dc33dd734bc81505d2b5ddc70e">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jaredrummler-material-spinner-1.1.0_8ba4a328cc8b0c4a4c8565b2751107bd450c0056/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/jars/libs/nineoldandroids-library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/nineoldandroids-library-2.4.0_36138cd2bb9650225ac2fc7b2a81ae4667cd6686/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_b27a09c899a72f09a0d3051fb95b06639d2b64aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_e97e0bc0553be63a75eeee957e412442bdab92fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_eff4ad256c4046ec436504a5b4defc8553ad566b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_9a7c7b27df8473eb4cc32777a420abd290201aef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c231461bd4ab97550b0b053c159e4f13ffc869">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ozodrukh-CircularReveal-1.0.4_30eb10ac6431d650d547e0e3833c85e05dd505bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_ebac75bdcc195f7385f464281d7446a742d79e95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.l4digital.fastscroll/fastscroll/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb097854db2f42161d8fc71b591fceb1f645fc62">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.l4digital.fastscroll-fastscroll-1.0.1_a1c2592477ca6acb8153476e6859322b237f5308/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_071f66f43130a3f0c37da386c144c5c5c3a5366f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb6c83d14996769c65f060f81cbb5ab1f64ca75">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.wnafee-vector-compat-1.0.5_19fea1495f8e3bf271271e7402ce838512dd7b27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_2ea47436eab31464f561827b67af2c30f1d4c6ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.5.2_3b52a174112fbe97a83002ca7bdb3fdf25db0871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.gjiazhe/PanoramaImageView/1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02ff2201bd08d8713b936c822f46805202d5b869">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.gjiazhe-PanoramaImageView-1.0_27748c9db3000156dfe20103e6b050f149e9c182/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.yalantis/Side-Menu.Android/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e9634168413b1752941c036e5e4b1c00439b90f">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.yalantis-Side-Menu.Android-1.0.1_4e01ebf36d2e5c44542bd4e3eddb11f122f06e70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.5_dcabecda159ba9e20b8ddf7179a569aa21099199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_c5abbd04eb3f47b470511a5f61cd91985ec31e37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_d4dbe36cc2ea7022e2f0ed3e19a801fcc41b7a74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_38abc5cc56fc968607fc633f949d0dba14e24b58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_cf916b31c7f44db8b042d5903058adfe5a191d8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk14/1.38/de366c3243a586eb3c0e2bcde1ed9bb1bfb985ff/bcprov-jdk14-1.38.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de366c3243a586eb3c0e2bcde1ed9bb1bfb985ff">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/bcprov-jdk14-1.38_d56d686a4254eae3b7f0abc86564d2caf5e27d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.sa90.materialarcmenu/library/1.5.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60a7395de373ab991276237d40857092bb1be3da">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.sa90.materialarcmenu-library-1.5.0_815b2ee9851267ffd8bb7ee21dd9d2a5686a952d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_f6db06c0e276e8ac097047b45eeacf2a06218fb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_65eda5a5ebfcd560ebefafdcf11e0c54e01e6e93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_c2f1ebe15e47676b7a1515422ead220014408ed7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_64b534f1f448dde982be783f94e8bcc7c4d9e074/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.armcha/SpaceNavigationView/1.4.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c08fc2912032c7c00bcfe166434fab4011e2406">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.armcha-SpaceNavigationView-1.4.1_52d1830d653fd4614a0a098e875a4c2d7abc35a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_e790469fbaa910b4bcec87ae9d83bd3686c5ca47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffb5ca9d86d47e5d88122249ece623c6d6c4d3a5">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.michaldrabik-tapbarmenu-1.0.5_f6d834c055e2fdd224593a90d7c60ac8ced62031/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-storage/0.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-storage-0.6.0_d5c345d0f34f69b88393890afb6ec6ee4f43ee68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextpdf/5.0.6/d7b0091cc9f6862dd388180cce94a2b0f4cc19e7/itextpdf-5.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7b0091cc9f6862dd388180cce94a2b0f4cc19e7">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/itextpdf-5.0.6_dc70e023d2de4951db4b350463c2f3ab2b737ee5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_356fad19499d43a8c943ad545cb485af5f19b869/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_c0fd0471ef824a6f9c0ef58da44234aa87e52c13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.iceteck.silicompressorr/silicompressor/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d036fbcfcb681ce7c2b5024fb7080ca5abf73ac1">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.iceteck.silicompressorr-silicompressor-1.1.0_97b0534ebd250c36f1ef8d79203ce5bac53c46e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/id.zelory/compressor/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a724d5d031884220bae4a255f6d2763cd0ebdc4">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/id.zelory-compressor-1.0.4_2871b175e7c85ee239ae6fd96036aa3cd8e8e71e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/co.lujun/androidtagview/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d588d6d328eef9e0a661ad0cc078d1fbe3055bba">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/co.lujun-androidtagview-1.0.5_32fa324fcece316fd51cf6d70698cb5201802a74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.dmitrymalkovich.android/progress-fab/1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="908c062ca17506c860d6e327ddb534009afa0f30">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.dmitrymalkovich.android-progress-fab-1.6_9aaaf37e2ee4278986cd2a336c3719b584e55aab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_580d6301e0a082f4992b610fa8cadd5c856985ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_4321a9281b0d7099077386a9743c66df01accbe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_69eef074b78864bebdf4eed83312a91f25d86230/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.nightonke/boommenu/2.0.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="735f52d952785f327a7f05ededa9da7d92ffccca">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.nightonke-boommenu-2.0.7_e10ed6bf4eb84ee2fbf09bfce970b2cfc5507ff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.4.0_25b36481c384e8933bcf5bd845193b3a6c842111/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_4191713eaa69f5b1e0f9bb9e190172dbdd610551/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_0ad3195008c963f18bba20e716283f592a910956/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05a717ec6c42105cb5b39b6bdc081b537af15e73">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_883bc38e79ba57d2b1b1ec65999192fed03e6297/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_422883ad4a6635b8ef3618174cfa40f15baf43e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_7d3f834f762e9c1ffb9a36e3fe8f7433f2e67804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bctsp-jdk14/1.38/4821122f8390d15f4b5ee652621e2a2bb1f1bf16/bctsp-jdk14-1.38.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4821122f8390d15f4b5ee652621e2a2bb1f1bf16">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/bctsp-jdk14-1.38_e0c869c2e7d7cde2ad6ccad303bd01b9262901d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.alamkanak/android-week-view/1.2.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="393eb85d65baa2c3702efdf699832498f8b51bf1">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.alamkanak-android-week-view-1.2.6_f97b6aa69db23dce0eff343593bf64d9e4791610/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_0734330a7394af2b1ff1eabe27a4db9e2a1f7b02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.yalantis/contextmenu/1.0.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a751094b3149197fc97f509127ec65ed2329350f">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.yalantis-contextmenu-1.0.7_d3d58a510bde5c62523925d362d135e1e5166b3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_7fa87c8e03aba6a84db69ec73ede02fb29fbf3c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_be1f5a0bd73c7494c733857448bcabec1dc15088/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_ad911644c40dd9efc64f42b2890e7b412e746531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_c185c9c74d7aa091b696046adc816686f149d8bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_bc090a2a5247fe5ef9f9daaf43022474aa5364ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcmail-jdk14/1.38/14ff2dfec8578f5f6838c4d6a77a86789afe5382/bcmail-jdk14-1.38.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14ff2dfec8578f5f6838c4d6a77a86789afe5382">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/bcmail-jdk14-1.38_cfe7efccfab86a630640a3425a5523e9b44406d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_1b0d0f99ab250e44df2fd82859d79e34374821b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="712f405f361c355895f783eaf454eefcbf86f875">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_710d034776b12cecf8c01867045f590f3884ebac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_a98dd334a9972628be06ed415e373fc630c6d15f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_0376d8f157530e6b8bb5070b0f85823ed1f4c59f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_32285837fc567b7e3de99942e6fa75ae083004ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e309b1df3051abebbfda31d1c80cd19bec617da">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.specyci-residemenu-1.6_a40079df93b2a6008b7e4a7eed4fda84cd375d47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_a7a677fc20b092fae7e65b94a2899e6a18c7b2fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.5.2_bd88a1976c266433501c2d03dd07c0a6de23f005/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_1e7b18d09fab803ec5a350d50f95f69efb78eb93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_c49d49714288f30117d555ef3ac8e19a53bfdec1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_c07a4fe95a1774974f7dfe8fc597a28342e301e2/classes.dex" />
+    </item>
+
+</items>

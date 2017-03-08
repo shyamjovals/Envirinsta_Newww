@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_guest.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-mdpi/ic_action_guest.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_audio.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-mdpi/ic_action_audio.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_video.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-mdpi/ic_action_video.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_group_sv.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-mdpi/ic_action_group_sv.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_filter.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-mdpi/ic_action_filter.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_image.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-mdpi/ic_action_image.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_indi_sv.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-mdpi/ic_action_indi_sv.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_text.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-mdpi/ic_action_text.png"
+    },
+    {
+        "merged": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_files.png",
+        "source": "/home/shyam/Android Studio Projects/Envirinsta/app/src/main/res/drawable-mdpi/ic_action_files.png"
+    }
+]

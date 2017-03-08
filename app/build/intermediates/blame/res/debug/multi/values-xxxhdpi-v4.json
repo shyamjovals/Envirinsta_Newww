@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/home/shyam/Android Studio Projects/Envirinsta/app/build/intermediates/exploded-aar/com.github.armcha/SpaceNavigationView/1.4.1/res/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            }
+        ]
+    }
+]
